@@ -11,6 +11,6 @@ public class Mensaje {
     public String mensajeApp()
     {
         
-        return "Aplicacion web muy sencilla que dice: Hola usuario";
+        return "Aplicacion web muy sencilla";
     }
 }
